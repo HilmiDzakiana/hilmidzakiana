@@ -49,7 +49,11 @@ _Aug 2023 – Dec 2024_
 
 - **DoS Attack Simulation on IIoT System:** 
   Analyzed PLC-based IIoT systems under simulated DoS attacks to evaluate reliability and resilience.
-
+  
+- **2 Liquid Mixer Control System:**  
+  Developed a complete PLC and HMI control system for a two-liquid mixing process, including automated valve operation, set-point adjustment, pump sequencing, interlocks, and process visualization. .
+  Documentation: [2-Liquid-Mixer-Control-System]()
+  
 - **Fuel Gas System Automation Design:**  
   Designed automation, including PFD, P&ID, ILD, Logic Diagram, BoM, control logic, HMI specs, valve sizing, and network diagrams.
   Documentation: [Fuel-Gas-System-Automation-Design](https://github.com/HilmiDzakiana/Fuel-Gas-System-Automation-Design)
