@@ -15,7 +15,25 @@ GPA: **3.61/4.0**
 - **Relevant Courses:** Industrial Instrumentation, Control Engineering, Automation System Design, Process Engineering, Robotics, Project Management
 
 ---
+## 🛠️ Projects
 
+- **DoS Attack Simulation on IIoT System:** 
+  Analyzed PLC-based IIoT systems under simulated DoS attacks to evaluate reliability and resilience.
+  
+- **2 Liquid Mixer Control System:**  
+  Developed a complete PLC and HMI control system for a two-liquid mixing process, including automated valve operation, set-point adjustment, pump sequencing, interlocks, and process visualization. .
+  Documentation: [2-Liquid-Mixer-Control-System](https://github.com/HilmiDzakiana/2-Liquid-Mixer-Control-System)
+  
+- **Fuel Gas System Automation Design:**  
+  Designed automation, including PFD, P&ID, ILD, Logic Diagram, BoM, control logic, HMI specs, valve sizing, and network diagrams.
+  Documentation: [Fuel-Gas-System-Automation-Design](https://github.com/HilmiDzakiana/Fuel-Gas-System-Automation-Design)
+
+- **Smart Water Management System:**  
+  Developed an automated irrigation system using Arduino Uno & Raspberry Pi 3B+ with environmental sensors for humidity, water level, and rainfall monitoring.
+
+  ---
+
+  
 ## 💼 Experience
 
 **Instrument Engineer Intern**  
@@ -43,23 +61,6 @@ _Aug 2023 – Dec 2024_
 - **Secretary of Science and Technology Field** – KMTNTF UGM _(Nov 2022 – Nov 2023)_  
   Coordinated student research, managed NYAC 2023 documentation, and ensured compliance.
 
----
-
-## 🛠️ Projects
-
-- **DoS Attack Simulation on IIoT System:** 
-  Analyzed PLC-based IIoT systems under simulated DoS attacks to evaluate reliability and resilience.
-  
-- **2 Liquid Mixer Control System:**  
-  Developed a complete PLC and HMI control system for a two-liquid mixing process, including automated valve operation, set-point adjustment, pump sequencing, interlocks, and process visualization. .
-  Documentation: [2-Liquid-Mixer-Control-System](https://github.com/HilmiDzakiana/2-Liquid-Mixer-Control-System)
-  
-- **Fuel Gas System Automation Design:**  
-  Designed automation, including PFD, P&ID, ILD, Logic Diagram, BoM, control logic, HMI specs, valve sizing, and network diagrams.
-  Documentation: [Fuel-Gas-System-Automation-Design](https://github.com/HilmiDzakiana/Fuel-Gas-System-Automation-Design)
-
-- **Smart Water Management System:**  
-  Developed an automated irrigation system using Arduino Uno & Raspberry Pi 3B+ with environmental sensors for humidity, water level, and rainfall monitoring.
 
 ---
 ## 📫 Contact
